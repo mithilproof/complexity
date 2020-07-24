@@ -9,4 +9,4 @@ def mergesort(a):
 
     p = len(a)//2
     m1 = mergesort(a[:p])
-
+# submasking w
